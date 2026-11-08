@@ -35,9 +35,9 @@ require (
 	github.com/pion/sdp/v3 v3.0.16
 	github.com/pion/webrtc/v4 v4.1.4
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/crypto v0.43.0
-	golang.org/x/sys v0.37.0
-	golang.org/x/term v0.36.0
+	golang.org/x/crypto v0.48.0
+	golang.org/x/sys v0.41.0
+	golang.org/x/term v0.40.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -74,13 +74,14 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
 	github.com/pion/datachannel v1.5.10 // indirect
-	github.com/pion/dtls/v3 v3.0.7 // indirect
+	github.com/pion/dtls/v3 v3.1.4 // indirect
 	github.com/pion/mdns/v2 v2.0.7 // indirect
 	github.com/pion/randutil v0.1.0 // indirect
 	github.com/pion/sctp v1.8.39 // indirect
 	github.com/pion/srtp/v3 v3.0.8 // indirect
 	github.com/pion/stun/v3 v3.0.0 // indirect
 	github.com/pion/transport/v3 v3.0.7 // indirect
+	github.com/pion/transport/v4 v4.0.1 // indirect
 	github.com/pion/turn/v4 v4.1.1 // indirect
 	github.com/pjbgf/sha1cd v0.3.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -95,12 +96,12 @@ require (
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	go.uber.org/mock v0.5.0 // indirect
 	golang.org/x/arch v0.20.0 // indirect
-	golang.org/x/mod v0.28.0 // indirect
-	golang.org/x/net v0.46.0 // indirect
-	golang.org/x/sync v0.17.0 // indirect
-	golang.org/x/text v0.30.0 // indirect
-	golang.org/x/time v0.9.0 // indirect
-	golang.org/x/tools v0.37.0 // indirect
+	golang.org/x/mod v0.32.0 // indirect
+	golang.org/x/net v0.49.0 // indirect
+	golang.org/x/sync v0.19.0 // indirect
+	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/time v0.10.0 // indirect
+	golang.org/x/tools v0.41.0 // indirect
 	google.golang.org/protobuf v1.36.9 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
